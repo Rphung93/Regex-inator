@@ -23,8 +23,14 @@ Briefly summarize the regex you will be describing and what you will explain. In
 ## Regex Components
 
 ### Anchors
+Anchors are used to match positions in the text rather than characters. Common anchors include ^ which denotes the start of a line and $ which denotes the end of a line.
+^Start of the line
+End of the line$
 
 ### Quantifiers
+Quantifiers specify how many instances of the preceding element should be matched. Common quantifiers include * (zero or more), + (one or more), and ? (zero or one).
+\d+ matches one or more digits
+[a-z]* matches zero or more lowercase letters
 
 ### OR Operator
 
