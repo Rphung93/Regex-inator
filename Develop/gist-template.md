@@ -83,4 +83,4 @@ Look-ahead and look-behind assertions allow you to assert that a pattern is or i
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+My name is Ricky Phung. Please feel free to contact me at email: Rphung1993@yahoo.com GitHub: https://github.com/Rphung93
